@@ -168,6 +168,7 @@ export default {
 h2,
 h3 {
   margin: 0;
+  word-wrap: break-word;
 }
 
 @charset "UTF-8";
